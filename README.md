@@ -15,8 +15,8 @@ I'm a Fullstack Developer interested in every part of the software and product d
 - I am also interested in UX/UI.
 
 #### 🖤 Hobbies and passions
-- Currently, my main hobbies are making Youtube content and live streaming;  
+- Currently, my main hobbies are making Youtube content, side-projects, and coffee ☕;  
 - From time to time I get back to game development, I use the [Godot Engine](https://github.com/godotengine/godot) for this;
 - I also really like to write about everything, primarily about self-improvement, technical stuff, and career. You can check out my blog on the badge up there;
 - I try to be a great and empathic person to everyone and everywhere;
-- I play a lot of video games in my free time. I enjoy survival, horror, aRPGs, and indie games;
+- I play video games in my free time. I enjoy survival, horror, aRPGs, and indie games;
